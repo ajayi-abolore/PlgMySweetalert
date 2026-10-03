@@ -231,12 +231,7 @@ Clone the repository:
 ``` bash
 git clone https://github.com/ajayi-abolore/PlgMySweetalert.git
 ```
-
-Then enter the repository:
-
-``` bash
-cd PlgMySweetalert
-```
+ 
 
 ## LifeTech OCMS Documentation
 
