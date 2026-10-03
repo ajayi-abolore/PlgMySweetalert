@@ -256,4 +256,4 @@ https://www.lifetech.host
 
 This project is released under the **MIT License**.
 
-See the `LICENSE` file included in this repository for details.
+See the `LICENSE` file included in this repository for details to read.
